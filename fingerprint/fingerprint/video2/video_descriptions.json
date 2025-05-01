@@ -1,0 +1,33 @@
+{
+  "model_version": "Salesforce/blip-image-captioning-base",
+  "frames": [
+    {
+      "frame_index": 0,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 30,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 60,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 90,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 120,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 150,
+      "caption": "a close up of a person ' s eye"
+    },
+    {
+      "frame_index": 180,
+      "caption": "a close up of a person ' s eye"
+    }
+  ]
+}

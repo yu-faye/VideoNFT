@@ -1,0 +1,17 @@
+{
+  "model_version": "Salesforce/blip-image-captioning-base",
+  "frames": [
+    {
+      "frame_index": 0,
+      "caption": "a black swan swimming in a lake"
+    },
+    {
+      "frame_index": 30,
+      "caption": "a black swan swimming in a lake"
+    },
+    {
+      "frame_index": 60,
+      "caption": "a swan is swimming in the water near a building"
+    }
+  ]
+}

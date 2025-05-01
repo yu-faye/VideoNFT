@@ -1,0 +1,65 @@
+{
+  "model_version": "Salesforce/blip-image-captioning-base",
+  "frames": [
+    {
+      "frame_index": 0,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 30,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 60,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 90,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 120,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 150,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 180,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 210,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 240,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 270,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 300,
+      "caption": "three people standing on top of a mountain looking at the view"
+    },
+    {
+      "frame_index": 330,
+      "caption": "three people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 360,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 390,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    },
+    {
+      "frame_index": 420,
+      "caption": "two people standing on top of a mountain looking at the clouds"
+    }
+  ]
+}

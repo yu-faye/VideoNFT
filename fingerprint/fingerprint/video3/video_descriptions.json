@@ -1,0 +1,29 @@
+{
+  "model_version": "Salesforce/blip-image-captioning-base",
+  "frames": [
+    {
+      "frame_index": 0,
+      "caption": "a cartoon character in a police uniform"
+    },
+    {
+      "frame_index": 30,
+      "caption": "a cartoon character in a police uniform"
+    },
+    {
+      "frame_index": 60,
+      "caption": "a man in a police uniform is talking to someone"
+    },
+    {
+      "frame_index": 90,
+      "caption": "a man in a uniform is holding a cell"
+    },
+    {
+      "frame_index": 120,
+      "caption": "a man in a uniform is standing in front of a wall"
+    },
+    {
+      "frame_index": 150,
+      "caption": "a police officer is talking to a woman"
+    }
+  ]
+}
